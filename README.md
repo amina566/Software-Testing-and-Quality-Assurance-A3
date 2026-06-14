@@ -10,3 +10,6 @@ You can also directly access the project in the browser after starting the serve
 Note
 Make sure Python is installed in your system.
 If port 8000 is busy, you can change it (e.g. 8001).
+
+
+SCREENSHOT LINK: file:///C:/Users/Ajwa/Documents/2026-06-14-ZAP-Report-localhost.html
